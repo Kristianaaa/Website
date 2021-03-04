@@ -1,6 +1,9 @@
 body {
   background-color: plum;
 }
+*{
+  margin: 0;
+}
 h1{
   font-size: 35px;
 }
