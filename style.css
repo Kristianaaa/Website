@@ -1,6 +1,9 @@
 body {
   background-color: plum;
 }
+h1{
+  font-size: 35px;
+}
 /* start of menu  */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 html {
