@@ -1,6 +1,4 @@
 body {background-color: plum;}
-<h2 style="text-align: center;"><span style="background-color: #ff99cc;"><strong>My Homemade Cookies &amp; Icing Recipes</strong></span></h2>
-
 /* start of menu  */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 html {
@@ -33,7 +31,7 @@ nav ul li a {
 }
 nav ul li a:hover {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
-  background: white;
+  background: dark magenta;
   color: black;
 }
 /* end of menu */
