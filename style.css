@@ -1,6 +1,6 @@
 body {background-color: plum;}
 /* start of menu  */
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap);
 html {
   height:100%;
   background-image: linear-gradient(to right top, #8e44ad 0%, #3498db 100%);
@@ -22,7 +22,7 @@ nav ul li {
 }
 nav ul li a {
   padding: 28px;
-  font-family: "impact";
+  font-family: "akaya kanadaka";
   text-transform:uppercase;
   color: black;
   font-size: 18px;
