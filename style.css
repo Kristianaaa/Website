@@ -1,5 +1,7 @@
-body {background-color: plum;
-font-size: 18px;
+body {
+  background-color: plum;
+  font-family: Helvetica;
+  font-size: 18px;
 }
 /* start of menu  */
 @import url(https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap);
