@@ -49,6 +49,9 @@ img{
   width 700px;
   height 700px;
 }
+div{
+  float: left;
+}
 /* start of menu  */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 html {
