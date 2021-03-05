@@ -17,13 +17,14 @@ img {
 
 .image {
   flex-basis: 40%;
+  float: right;
 }
 
 
 h1{
   font-size: 40px;
   text-align: left;
-  text-color: purple;
+  color: purple;
 }
 h2{
   font-size: 30px;
@@ -36,18 +37,14 @@ h3{
 h4{
   font-size: 25px;
   text-align: left;
-  text-color: purple;
+  color: purple;
 }
 p{
   font-size: 20px;
 }
 li{
   font-size: 20px;
-}
-img{
-  float: right;
-  width 700px;
-  height 700px;
+  display: inline;
 }
 div{
   float: left;
