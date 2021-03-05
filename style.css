@@ -23,7 +23,7 @@ img {
 h1{
   font-size: 40px;
   text-align: left;
-  color: purple;
+  text-color: purple;
 }
 h2{
   font-size: 30px;
@@ -36,7 +36,7 @@ h3{
 h4{
   font-size: 25px;
   text-align: left;
-  color: purple;
+  text-color: purple;
 }
 p{
   font-size: 20px;
