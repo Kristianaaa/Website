@@ -5,10 +5,6 @@ body {
   background-color: plum;
   margin: 50px;
 }
-.container {
-  display: flex;
-  justify-content: center;
-}
 
 img {
   max-width: 100%;
@@ -38,8 +34,26 @@ h4{
 p{
   font-size: 20px;
 }
-li{
+.ol{
+  padding: 0;
+  margin: 0;
+}
+.ul{
+  padding: 0;
+  margin: 0;
+}
+.li{
   font-size: 20px;
+  color: black;
+}
+.div1{
+  float: left;
+}
+.div2{
+  float: right;
+}
+.image1{
+  float: right;
 }
 /* start of menu  */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
